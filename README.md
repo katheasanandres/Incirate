@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌃 AfterHours</h1>
+  <h1>🌃 Incirate</h1>
   <p><strong>AI-Driven Spatiotemporal Safety Mapping & Sentiment Analysis</strong></p>
 
   <p>
@@ -13,7 +13,7 @@
 ---
 
 ### Description
-AfterHours is a community-driven safety awareness **Progressive Web App (PWA)** designed to help citizens navigate public spaces with more confidence. By leveraging **Natural Language Processing (NLP)** and real-time community reporting, the system transforms raw safety descriptions into a dynamic, "vibe-based" risk heatmap.
+Incirate is a community-driven safety awareness **Progressive Web App (PWA)** designed to help citizens navigate public spaces with more confidence. By leveraging **Natural Language Processing (NLP)** and real-time community reporting, the system transforms raw safety descriptions into a dynamic, "vibe-based" risk heatmap.
 
 The platform prioritizes **user privacy** through a privacy-first architecture that rotates session IDs and discards raw text after analysis, ensuring that community safety doesn't come at the cost of individual anonymity.
 
